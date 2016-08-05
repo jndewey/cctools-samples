@@ -3,7 +3,7 @@
 package main 
 
 import "fmt"
-import "github.com/jndewey/cctools"
+import "github.com/jndewey/cctools" // replace this import path with the correct path to cctools on your system
 
 func main() {
 	NoParty := cctools.Party{}
